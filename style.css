@@ -1,0 +1,51 @@
+body {
+  font-family: "Syne Mono", monospace;
+  background-position: center;
+  background-size: cover;
+}
+.heading {
+  width: 100%;
+  margin: 0px;
+  color: black;
+  font-size: 30px !important;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  text-align: center;
+}
+.inst {
+  float: right;
+  display: inline;
+  font-size: 20px;
+  margin-top: 7px;
+}
+.div {
+  width: 100%;
+}
+.modal-dialog{
+  width:90%;
+  box-shadow: 5px 5px 10px rgb(0, 0, 0);
+  font-size: 18px;
+}
+.instruction_image{
+  display: inline-block;
+  width: 45%;
+
+}
+.mh{
+  font-size: 25px;
+}
+canvas {
+  border: 5px rgb(0, 0, 0) solid;
+  box-shadow: rgb(245, 170, 255) 2px 2px 10px;
+}
+video {
+
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+
+
+
+
